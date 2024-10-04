@@ -4,11 +4,7 @@
 
 <commercial> 
 
-<client> 
-<client nom="Renard"></client>
-<client prenom="Nicolas"></client>
-<client mail="nrenard@gmail.com"></client>
-<client mobile="0699305567"></client>
+<client nom="Renard" prenom="Nicolas" mail="nrenard@gmail.com" mobile="0699305567"> 
     <demande>
     <destination>Mexique</destination>
     <periode>Fin mai 2020</periode>
@@ -21,12 +17,6 @@
     </propositions>
 </demande>
 </client>
-<client>
-<client nom="Grenapin"></client>
-<client prenom="Dorothée"></client>
-<client mail="grenapin@fr-group.com"></client>
-<client mobile="0299123455"></client>
+<client nom="Grenapin" prenom="Dorothée" mail="grenapin@fr-group.com" mobile="0299123455">
 </client>
-
-
 </commercial>
