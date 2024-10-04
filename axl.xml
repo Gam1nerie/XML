@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE commercial SYSTEM "axl.dtd">
+
+<commercial> 
+
+<client> 
+<client nom="Renard"></client>
+<client prenom="Nicolas"></client>
+<client mail="nrenard@gmail.com"></client>
+<client mobile="0699305567"></client>
+    <demande>
+    <destination>Mexique</destination>
+    <periode>Fin mai 2020</periode>
+    <duree>7 nuits</duree>
+    <nbparticipant>4</nbparticipant>
+    <tarifmax>890.00</tarifmax>
+    <propositions>
+        <proposition>Circuit Maya: Yucatan-Cancùn...</proposition>
+        <proposition>Route turquoise: cascades, temples</proposition>
+    </propositions>
+</demande>
+</client>
+<client>
+<client nom="Grenapin"></client>
+<client prenom="Dorothée"></client>
+<client mail="grenapin@fr-group.com"></client>
+<client mobile="0299123455"></client>
+</client>
+
+
+</commercial>
